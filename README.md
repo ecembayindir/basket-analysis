@@ -54,6 +54,6 @@ This project explores Market Basket Analysis using the Instacart dataset to unde
 <hr>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ecembayindir&repo=basket-analysis&label=Repository%20views&color=0e75b6&style=flat&base=1" alt="Repository Views">
+  <img src="https://komarev.com/ghpvc/?username=ecembayindir&repo=basket-analysis&label=Repository%20views&color=0e75b6&style=flat" alt="Repository Views">
 </p>
 
