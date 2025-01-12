@@ -35,23 +35,6 @@ This project explores Market Basket Analysis using the Instacart dataset to unde
     <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
-<h2>📂 <strong>Repository Structure</strong></h2>
-<pre>
-├── data/
-│   ├── orders.csv              # Order information
-│   ├── order_products.csv      # Product details per order
-│   └── products.csv            # Product information
-├── notebooks/
-│   ├── data_preprocessing.ipynb # Data cleaning and preparation
-│   ├── market_basket.ipynb     # Market basket analysis implementation
-│   └── recommendation.ipynb    # Product recommendation system
-├── scripts/
-│   ├── apriori_analysis.py     # Apriori algorithm implementation
-│   ├── hmine_analysis.py       # H-Mine algorithm implementation
-│   └── utils.py                # Helper functions
-├── README.md
-</pre>
-
 <h2>📊 <strong>Key Insights</strong></h2>
 <ul>
   <li><strong>Frequent Patterns:</strong> Identified strong product associations like "Cola & Chips" and "Lemons & Salad Ingredients."</li>
@@ -71,6 +54,6 @@ This project explores Market Basket Analysis using the Instacart dataset to unde
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecembayindir&label=Repository%20views&color=0e75b6&style=flat" alt="Repository Views">
+<img src="https://komarev.com/ghpvc/?username=ecembayindir&repo=basket-analysis&label=Repository%20views&color=0e75b6&style=flat&base=1" alt="Repository Views">
 </p>
 
